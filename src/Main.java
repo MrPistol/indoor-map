@@ -15,6 +15,7 @@ public class Main {
   private JPanel mainPanel;
   private JButton roomButton;
   private JButton concertHallButton;
+  private JPanel drawingPanel;
 
   private Map<String, String> settings;
 
